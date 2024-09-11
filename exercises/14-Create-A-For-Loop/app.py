@@ -1,5 +1,17 @@
 def standards_maker():
     # ✅↓ Write your code here ↓✅
-
-
+   
+    for i in range(0,300):
+        print("I will ask questions if I am stuck")
+       
 # ✅↓ remember to call the function outside (here) ↓✅
+
+print(standards_maker())
+
+
+# def start_counting():
+# 	for i in range(12):
+# 		print(i)
+# 	return i
+
+# start_counting()

@@ -20,8 +20,6 @@ def get_allStudentColors():
     example_color = get_color(1)
     students_array = []
     # ✅ ↓ your loop here ↓ ✅
-    for color in example_color:
-        color.append(students_array)
-
+    
 
 print(get_allStudentColors())
